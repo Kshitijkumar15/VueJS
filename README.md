@@ -1,32 +1,12 @@
-# VueJS
+# Product and Cart Vue CLI Demo
 
-[![Vue.js](https://img.shields.io/badge/Vue.js-2.x%20%7C%203.x-brightgreen)](https://vuejs.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+This is one of the companion repos to the Vue.js course on the freeCodeCamp YouTube channel.
+You can see the different stages of development by checking out the other branches.
 
-A brief description of your project.
+**Other Repos from this Tutorial Series**
 
-## Table of Contents
+- [Static files from initial lessons](https://github.com/gwenf/vue3-fcc-course-static-code)
+- [Basic, Static Product Cart Demo](https://github.com/gwenf/vue3-fcc-course-basic-product-cart-demo)
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+Special thanks to [TheJaredWilcurt](https://github.com/TheJaredWilcurt) for helping out with the initial static code and doing pretty much all of the styling.
 
-## Features
-Vue.js is a JavaScript framework for building UIs. It allows you to use as much or as little of it as needed.
-Key features include declarative rendering, component-based architecture, reactivity, directives, templates, computed properties, watchers, lifecycle hooks, CLI, Vuex, Vue Router, transitions, filters, custom directives, and Vue Devtools. 
-It's simple, flexible, and suitable for small and large-scale projects.
-## Installation
-
-1. Clone the repository: `git clone https://github.com/your-username/your-project.git`
-2. Navigate to the project directory: `cd your-project`
-3. Install dependencies: `npm install`
-
-## Usage
-
-Provide examples or guidelines on how to use your project.
-
-```bash
-# Example command or code snippet
-npm run start
